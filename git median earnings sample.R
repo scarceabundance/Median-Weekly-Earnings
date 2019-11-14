@@ -3,6 +3,7 @@ library(ggplot2)
 library(dplyr)
 library(readxl)
 library(wesanderson)
+library(usethis)
 
 ##### Loading the Excel Tables ######
 BLSHA_PEarnings <- read_excel("C:/Users/AGabrielClay/Desktop/personal projects/Unemployment Charawcteristic tables/Household Data Annual Averagessss.xlsx", 
